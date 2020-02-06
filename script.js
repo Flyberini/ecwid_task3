@@ -31,7 +31,7 @@ function wheel() {
     isFullCarAdded();
 }; 
 function hood() {
-    Ecwid.Cart.addProduct(169134044);
+    Ecwid.Cart.addProduct(173431127);
     if (!hoodAdded) {
         n++;
         hoodAdded = true;
